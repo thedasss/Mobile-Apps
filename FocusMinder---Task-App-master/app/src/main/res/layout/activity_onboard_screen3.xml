@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F5F2"
+    tools:context=".OnboardScreen3">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="261dp"
+        android:layout_height="75dp"
+        android:src="@drawable/plan"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.557" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="129dp"
+        android:layout_height="12dp"
+        android:src="@drawable/dots3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.783" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="205dp"
+        android:layout_height="48dp"
+        android:src="@drawable/getstart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.901"
+        tools:srcCompat="@drawable/getstart" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="325dp"
+        android:layout_height="398dp"
+        android:src="@drawable/group_233"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.071"
+         />
+</androidx.constraintlayout.widget.ConstraintLayout>
