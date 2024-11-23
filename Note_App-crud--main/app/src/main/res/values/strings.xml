@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_smart_diary">My Smart Diary</string>
+    <string name="open">Open</string>
+    <string name="add_note">Add Note…</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="editfab">editFab</string>
+    <string name="edit_note">Edit Note.</string>
+    <string name="note_title">Note Title</string>
+    <string name="description">Description</string>
+</resources>
